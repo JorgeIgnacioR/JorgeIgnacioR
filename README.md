@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jorge Ignacio Ridella</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Jorge Ignacio Ridella</h1>
 <h3 align="center">Industrial engineering student </h3>
 
 <br>
