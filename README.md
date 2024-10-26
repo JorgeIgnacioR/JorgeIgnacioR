@@ -31,6 +31,7 @@
 
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
+<div align="center">
 [![](https://github-readme-stats.vercel.app/api?username=JorgeIgnacioR&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JorgeIgnacioR)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=JorgeIgnacioR&theme=material-palenight)](https://github.com/JorgeIgnacioR)
 </div>
