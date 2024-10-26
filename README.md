@@ -2,7 +2,7 @@
 <h3 align="center">Industrial engineering student </h3>
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="JorgeIgnacioR" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
@@ -29,12 +29,13 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
 
+<div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-<div align="center">
 [![](https://github-readme-stats.vercel.app/api?username=JorgeIgnacioR&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JorgeIgnacioR)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=JorgeIgnacioR&theme=material-palenight)](https://github.com/JorgeIgnacioR)
 </div>
+
 
 
 
