@@ -28,7 +28,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpeopleworks.com.do%2F2023%2F11%2F24%2Flenguaje-sql%2F&psig=AOvVaw1hq1hVITQNScEvouBa-bnR&ust=1735619677223000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiN6aTVzooDFQAAAAAdAAAAABAE">
+<img src="https://peopleworks.com.do/wp-content/uploads/2023/11/azure-sql-database6354.jpg">
+
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
