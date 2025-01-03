@@ -5,7 +5,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="JorgeIgnacioR" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I am currently dedicated to enhancing my data analysis skills.
 
 - 📫 How to reach me ridellajorge@gmail.com**
 
