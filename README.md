@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact :- I am interested in learning, developing useful tools, and music.
 
+- check my repositories: https://github.com/JorgeIgnacioR?tab=repositories 
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
