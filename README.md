@@ -11,7 +11,9 @@
 
 - ⚡ Fun fact :- I am interested in learning, developing useful tools, and music.
 
-- check my repositories: https://github.com/JorgeIgnacioR?tab=repositories 
+- check my repositories: https://github.com/JorgeIgnacioR?tab=repositories
+
+- check my dashboards: https://drive.google.com/drive/folders/1QwuwYloRzzmImMP1DmaO25A-QNaAAtIk?usp=sharing
 
 <br>
 
